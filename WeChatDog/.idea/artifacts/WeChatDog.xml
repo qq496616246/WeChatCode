@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WeChatDog">
+    <output-path>$PROJECT_DIR$/out/artifacts/WeChatDog</output-path>
+    <root id="archive" name="WeChatDog.war">
+      <element id="artifact" artifact-name="WeChatDog:war exploded" />
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+    </root>
+  </artifact>
+</component>
